@@ -1,0 +1,16 @@
+.wrapper {
+    min-height: 2em;
+    position: relative;
+    display: flex;
+    padding: 5px;
+}
+
+.input {
+    flex: 1;
+    padding: 0 5px;
+    border: none;
+    background-color: #00000005;
+    border-radius: 4px;
+    min-height: 2em;
+    font-size: 1.1em;
+}
